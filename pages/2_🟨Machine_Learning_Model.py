@@ -5,7 +5,7 @@ st.set_page_config(
         page_title="ML",
         page_icon="🟨",
         layout="wide",
-    )
+    )  
 
 from src.utils.util import inicio, show_logo, area, data_science, data_engineer, data_analytics
 from src.utils.util import front_end, full_stack, back_End, get_options
